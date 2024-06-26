@@ -7,3 +7,4 @@ Prediction page :![image](https://github.com/SaudShaikh69/SalaryCensus-prj/asset
 
 How to use with Vid explanation : ![image](https://github.com/SaudShaikh69/SalaryCensus-prj/assets/117293243/5952299f-6e71-48cc-bfbf-3a35a73cc09d)
 
+Final Page : ![image](https://github.com/SaudShaikh69/SalaryCensus-prj/assets/117293243/c4d9d30d-7c61-4726-8234-630be5b7ebf2)
